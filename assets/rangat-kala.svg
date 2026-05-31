@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Rangat Kala project preview</title>
+  <desc id="desc">Monochrome website preview for a cultural arts project.</desc>
+  <rect width="1200" height="675" fill="#f8f8f7"/>
+  <rect x="70" y="62" width="1060" height="551" rx="8" fill="#111113"/>
+  <rect x="96" y="92" width="1008" height="70" rx="6" fill="#f0f0ef"/>
+  <rect x="128" y="116" width="150" height="22" rx="4" fill="#111113"/>
+  <rect x="830" y="116" width="70" height="18" rx="4" fill="#55575d"/>
+  <rect x="922" y="116" width="70" height="18" rx="4" fill="#55575d"/>
+  <rect x="1014" y="109" width="58" height="32" rx="5" fill="#111113"/>
+  <rect x="126" y="210" width="442" height="266" rx="8" fill="#f8f8f7"/>
+  <rect x="620" y="210" width="390" height="38" rx="5" fill="#f8f8f7"/>
+  <rect x="620" y="270" width="330" height="24" rx="5" fill="#b8b8bb"/>
+  <rect x="620" y="312" width="362" height="24" rx="5" fill="#b8b8bb"/>
+  <rect x="620" y="374" width="146" height="46" rx="8" fill="#f8f8f7"/>
+  <circle cx="347" cy="338" r="108" fill="#25262a"/>
+  <path d="M262 372c44-99 127-104 171-7-39 35-124 38-171 7Z" fill="#f8f8f7"/>
+  <path d="M321 268c42 39 81 42 119 5-11 63-104 62-119-5Z" fill="#f8f8f7"/>
+  <rect x="126" y="520" width="884" height="28" rx="5" fill="#f8f8f7"/>
+  <rect x="126" y="563" width="594" height="18" rx="4" fill="#9a9ca1"/>
+</svg>

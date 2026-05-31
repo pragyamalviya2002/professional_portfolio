@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Dance academy management system preview</title>
+  <desc id="desc">Monochrome academy website and registration system preview.</desc>
+  <rect width="1200" height="675" fill="#f8f8f7"/>
+  <rect x="88" y="74" width="1024" height="527" rx="8" fill="#111113"/>
+  <rect x="126" y="116" width="438" height="420" rx="8" fill="#f8f8f7"/>
+  <rect x="616" y="116" width="380" height="48" rx="6" fill="#f8f8f7"/>
+  <rect x="616" y="194" width="298" height="22" rx="5" fill="#a6a7aa"/>
+  <rect x="616" y="242" width="360" height="22" rx="5" fill="#a6a7aa"/>
+  <rect x="616" y="312" width="180" height="50" rx="8" fill="#f8f8f7"/>
+  <rect x="646" y="410" width="390" height="126" rx="8" fill="#242529"/>
+  <path d="M272 419c56-74 99-152 128-236" fill="none" stroke="#111113" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="421" cy="173" r="33" fill="#111113"/>
+  <path d="M312 261c80-37 133-31 182 15" fill="none" stroke="#111113" stroke-width="24" stroke-linecap="round"/>
+  <path d="M346 335c-61 17-101 57-121 121" fill="none" stroke="#111113" stroke-width="24" stroke-linecap="round"/>
+  <rect x="680" y="448" width="130" height="18" rx="4" fill="#f8f8f7"/>
+  <rect x="680" y="488" width="290" height="18" rx="4" fill="#9a9ca1"/>
+</svg>
